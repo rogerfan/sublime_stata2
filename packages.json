@@ -5,7 +5,7 @@
 			"name": "Stata",
 			"description": "Code highlighting and execution.",
 			"author": "rpoweres",
-			"homepage": "https://github.com/rpowers/sublime_stata",
+			"homepage": "https://github.com/rogerfan/sublime_stata.git",
 			"last_modified": "2012-07-27 00:00:00",
 			"platforms": {
 				"osx": [

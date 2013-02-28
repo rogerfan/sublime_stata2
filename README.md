@@ -3,6 +3,7 @@
 ***
 
 Author: Ryan Powers -- [rpowers@wisc.edu](mailto:rpowers@wisc.edu)
+Modified by: Roger Fan -- [rogerfan.rf@gmail.com]
 
 Date: 27 July 2012
 
