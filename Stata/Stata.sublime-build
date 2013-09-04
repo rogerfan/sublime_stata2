@@ -1,12 +1,12 @@
 {	
-	"cmd": ["osascript -e 'tell application \"StataMP\" to activate & open POSIX file \"$file\"'"],
+	"cmd": ["C:\\Users\\g1rxf01\\AppData\\Roaming\\Sublime Text 2\\Packages\\sublime_stata2\\Stata\\rundo.exe", "$file"],
 	"selector": "source.stata",
 	"shell": true,
 
 
 "variants": [
 
-        { "cmd": ["osascript -e 'tell application \"Sublime Text 2\" to activate' -e 'set old to the clipboard' -e  'tell app \"System Events\" to keystroke \"c\" using {command down}' -e 'delay 0.03' -e 'set _selection to the clipboard as text' -e 'do shell script \"pbpaste > /tmp/sublime_to_stata.do\"' -e 'set the clipboard to old' -e 'tell application \"StataMP\" to activate & open POSIX file \"/tmp/sublime_to_stata.do\"'"],
+        { "cmd": ["C:\\Users\\g1rxf01\\AppData\\Roaming\\Sublime Text 2\\Packages\\sublime_stata2\\Stata\\rundolines.exe"],
           "name": "Run",
           "shell": true
         }
