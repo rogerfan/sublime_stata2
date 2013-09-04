@@ -89,7 +89,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(^|\s)(//).*$</string>
+			<string>(//).*$</string>
 			<key>name</key>
 			<string>comment.line.slash.stata</string>
 		</dict>
