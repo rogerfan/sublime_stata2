@@ -46,7 +46,7 @@
 			<string>"</string>
 			<key>name</key>
 			<string>string.quoted.double.stata</string>
-			<key>patterns</key>
+<!-- 			<key>patterns</key>
 			<array>
 				<dict>
 					<key>match</key>
@@ -54,7 +54,7 @@
 					<key>name</key>
 					<string>constant.character.escaped.untitled</string>
 				</dict>
-			</array>
+			</array> -->
 		</dict>
 		<dict>
 			<key>begin</key>
@@ -63,7 +63,7 @@
 			<string>'</string>
 			<key>name</key>
 			<string>string.quoted.single.stata</string>
-			<key>patterns</key>
+<!-- 			<key>patterns</key>
 			<array>
 				<dict>
 					<key>match</key>
@@ -71,7 +71,7 @@
 					<key>name</key>
 					<string>constant.character.escaped.untitled</string>
 				</dict>
-			</array>
+			</array> -->
 		</dict>
 		<dict>
 			<key>begin</key>
